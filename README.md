@@ -6,7 +6,7 @@
 
 ## What is GoGoCode? branch2修改
 yyy = 3
-## What is GoGoCode?我是程序员1
+## What is GoGoCode?我是程序员1 在hub上进行了一次修改
 
 [中文 README](README-cn.md)
 

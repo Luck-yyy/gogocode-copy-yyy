@@ -6,6 +6,7 @@
 
 ## What is GoGoCode? branch2修改
 yyy = 3
+## What is GoGoCode?我是程序员1
 
 [中文 README](README-cn.md)
 
@@ -18,7 +19,7 @@ Learn more at [GoGoCode Document](https://github.com/thx/gogocode/blob/main/docs
 
 ## Intro
 
-Let's show you how to select and modify code with our API
+
 
 ### In
 

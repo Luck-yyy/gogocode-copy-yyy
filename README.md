@@ -5,6 +5,8 @@
 [ 详细文档点击这里 ](https://github.com/thx/gogocode/blob/main/docs/specification/basic.zh.md)
 
 ## What is GoGoCode?
+视为一次成功提交
+
 
 [中文 README](README-cn.md)
 
